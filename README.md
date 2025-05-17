@@ -65,5 +65,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 <h2>📄 License</h2>
 <p>
-This project is licensed under the MIT License.
+This project is licensed under My Coorporation 
 </p>
